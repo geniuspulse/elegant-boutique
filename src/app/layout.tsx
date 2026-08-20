@@ -5,6 +5,12 @@ import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'Elegant Boutique MW — ELEGANT • STYLISH • YOU',
+  icons: {
+    icon: [
+      { url: 'https://media.base44.com/images/public/6a85ec11d66075f7f89911f8/22ead13f7_favicon_512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: 'https://media.base44.com/images/public/6a85ec11d66075f7f89911f8/22ead13f7_favicon_512.png',
+  },
   description:
     'Elegant Boutique MW — Malawi’s premier destination for elegant formal wear, dresses, and two-piece sets. Visit us in Area 49, Gulliver, Lilongwe.',
   keywords: ['elegant boutique', 'lilongwe fashion', 'malawi clothing', 'formal wear malawi', 'gulliver lilongwe'],

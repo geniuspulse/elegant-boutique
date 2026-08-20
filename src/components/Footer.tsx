@@ -12,10 +12,10 @@ export default function Footer() {
             <div className="flex items-center gap-2 mb-2">
               <div className="relative w-8 h-8 flex-shrink-0">
                 <Image
-                  src="https://media.base44.com/images/public/6a85ec11d66075f7f89911f8/d03c8fc90_generated_image.png"
+                  src="https://media.base44.com/images/public/6a85ec11d66075f7f89911f8/0d3563e74_logo_real_white_version.png"
                   alt="Elegant Boutique MW logo"
                   fill
-                  className="object-contain invert"
+                  className="object-contain"
                 />
               </div>
               <h3 className="font-serif text-2xl">
