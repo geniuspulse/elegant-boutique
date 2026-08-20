@@ -30,9 +30,9 @@ export const products: Product[] = [
     description:
       'A timeless white dress crafted for the woman who commands attention without saying a word. Flowing silhouette with a tailored fit that flatters every curve. Perfect for formal events, weddings, and special occasions.',
     image:
-      'https://images.unsplash.com/photo-1595777457583-95e059d0e529?w=800&q=80',
+      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800&q=80',
     images: [
-      'https://images.unsplash.com/photo-1595777457583-95e059d0e529?w=1200&q=80',
+      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=1200&q=80',
       'https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=1200&q=80',
     ],
     isNew: true,
@@ -49,12 +49,11 @@ export const products: Product[] = [
     colors: ['Red'],
     sizes: ['S', 'M', 'L', 'XL', '2XL'],
     description:
-      'Bold, confident, unforgettable. This crimson red dress is designed for the woman who isn’t afraid to stand out. Tailored to perfection with a figure-hugging fit and elegant hemline.',
+      'Bold, confident, unforgettable. This crimson red dress is designed for the woman who isn\u2019t afraid to stand out. Tailored to perfection with a figure-hugging fit and elegant hemline.',
     image:
       'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&q=80',
     images: [
       'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=1200&q=80',
-      'https://images.unsplash.com/photo-1595777457583-95e059d0e529?w=1200&q=80',
     ],
     isNew: true,
     isFeatured: true,
@@ -70,7 +69,7 @@ export const products: Product[] = [
     colors: ['Cream'],
     sizes: ['S', 'M', 'L', 'XL'],
     description:
-      'Effortless sophistication in a coordinated two-piece. The cream set pairs a structured top with a flowing bottom — versatile enough for both casual outings and semi-formal events.',
+      'Effortless sophistication in a coordinated two-piece. The cream set pairs a structured top with a flowing bottom \u2014 versatile enough for both casual outings and semi-formal events.',
     image:
       'https://images.unsplash.com/photo-1583846783214-7229a91b20ed?w=800&q=80',
     images: [
@@ -112,9 +111,9 @@ export const products: Product[] = [
     description:
       'Light, breezy, and effortlessly feminine. This floral print dress is perfect for warm days and casual outings. The flowing fabric moves beautifully with every step.',
     image:
-      'https://images.unsplash.com/photo-1612722432474-b971cdcea566?w=800&q=80',
+      'https://images.unsplash.com/photo-1551232864-3f0890e580d9?w=800&q=80',
     images: [
-      'https://images.unsplash.com/photo-1612722432474-b971cdcea566?w=1200&q=80',
+      'https://images.unsplash.com/photo-1551232864-3f0890e580d9?w=1200&q=80',
     ],
     isNew: true,
     isFeatured: false,
@@ -135,7 +134,7 @@ export const products: Product[] = [
       'https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800&q=80',
     images: [
       'https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=1200&q=80',
-      'https://images.unsplash.com/photo-1495121605193-b116b5ce9c70?w=1200&q=80',
+      'https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1200&q=80',
     ],
     isNew: false,
     isFeatured: true,
@@ -151,11 +150,11 @@ export const products: Product[] = [
     colors: ['Blush'],
     sizes: ['S', 'M', 'L', 'XL'],
     description:
-      'Soft, romantic, and refined. This blush pink formal dress features a delicate silhouette that’s perfect for weddings, cocktail events, and evening occasions.',
+      'Soft, romantic, and refined. This blush pink formal dress features a delicate silhouette that\u2019s perfect for weddings, cocktail events, and evening occasions.',
     image:
-      'https://images.unsplash.com/photo-1495121605193-b116b5ce9c70?w=800&q=80',
+      'https://images.unsplash.com/photo-1485518882345-15568b007407?w=800&q=80',
     images: [
-      'https://images.unsplash.com/photo-1495121605193-b116b5ce9c70?w=1200&q=80',
+      'https://images.unsplash.com/photo-1485518882345-15568b007407?w=1200&q=80',
     ],
     isNew: false,
     isFeatured: false,
@@ -193,9 +192,9 @@ export const products: Product[] = [
     description:
       'Luxurious silk blouse in a warm champagne tone. Effortlessly transitions from office wear to evening elegance. Pair with trousers or a skirt for a polished look.',
     image:
-      'https://images.unsplash.com/photo-1564257577-2d3c5c5f3b41?w=800&q=80',
+      'https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&q=80',
     images: [
-      'https://images.unsplash.com/photo-1564257577-2d3c5c5f3b41?w=1200&q=80',
+      'https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=1200&q=80',
     ],
     isNew: true,
     isFeatured: false,
