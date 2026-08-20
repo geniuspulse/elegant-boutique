@@ -20,7 +20,7 @@ export default function DeliveryPage() {
           <div className="bg-cream-card border border-ink/10 p-6">
             <div className="flex items-start gap-4">
               <div className="w-12 h-12 flex items-center justify-center bg-gold/10 flex-shrink-0">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#b8956a" strokeWidth="1.5">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#d6127d" strokeWidth="1.5">
                   <path d="M3 9l2-5h14l2 5M3 9v11a1 1 0 001 1h16a1 1 0 001-1V9M3 9h18" />
                   <path d="M9 13h6" />
                 </svg>
@@ -28,28 +28,8 @@ export default function DeliveryPage() {
               <div>
                 <h3 className="font-serif text-xl text-ink mb-1">In-Store Pickup</h3>
                 <p className="text-ink-muted text-sm">
-                  Reserve any item on WhatsApp and pick it up at our shops. Available at both
-                  Pacific Mall (Blantyre) and Old Gulliver Market (Lilongwe). No delivery fee.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          {/* Blantyre delivery */}
-          <div className="bg-cream-card border border-ink/10 p-6">
-            <div className="flex items-start gap-4">
-              <div className="w-12 h-12 flex items-center justify-center bg-gold/10 flex-shrink-0">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#b8956a" strokeWidth="1.5">
-                  <circle cx="12" cy="12" r="10" /><path d="M12 6v6l4 2" />
-                </svg>
-              </div>
-              <div>
-                <h3 className="font-serif text-xl text-ink mb-1">Within Blantyre</h3>
-                <p className="text-ink-muted text-sm mb-2">
-                  We deliver within Blantyre city limits. Delivery arranged via WhatsApp after reservation.
-                </p>
-                <p className="text-sm text-ink font-medium">
-                  Delivery fee: Arranged on WhatsApp based on location
+                  Reserve any item on WhatsApp and pick it up at our shop in Area 49,
+                  Gulliver, Lilongwe. No delivery fee.
                 </p>
               </div>
             </div>
@@ -59,14 +39,14 @@ export default function DeliveryPage() {
           <div className="bg-cream-card border border-ink/10 p-6">
             <div className="flex items-start gap-4">
               <div className="w-12 h-12 flex items-center justify-center bg-gold/10 flex-shrink-0">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#b8956a" strokeWidth="1.5">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#d6127d" strokeWidth="1.5">
                   <circle cx="12" cy="12" r="10" /><path d="M12 6v6l4 2" />
                 </svg>
               </div>
               <div>
                 <h3 className="font-serif text-xl text-ink mb-1">Within Lilongwe</h3>
                 <p className="text-ink-muted text-sm mb-2">
-                  Delivery available within Lilongwe from our Old Gulliver Market shop. Arrange via WhatsApp.
+                  Delivery available within Lilongwe from our Area 49, Gulliver shop. Arrange via WhatsApp.
                 </p>
                 <p className="text-sm text-ink font-medium">
                   Delivery fee: Arranged on WhatsApp based on location
@@ -79,7 +59,7 @@ export default function DeliveryPage() {
           <div className="bg-cream-card border border-ink/10 p-6">
             <div className="flex items-start gap-4">
               <div className="w-12 h-12 flex items-center justify-center bg-gold/10 flex-shrink-0">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#b8956a" strokeWidth="1.5">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#d6127d" strokeWidth="1.5">
                   <path d="M1 3h15v13H1zM16 8h4l3 3v5h-7V8z" />
                   <circle cx="5.5" cy="18.5" r="2.5" /><circle cx="18.5" cy="18.5" r="2.5" />
                 </svg>

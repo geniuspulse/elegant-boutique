@@ -137,11 +137,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
             <div className="border-t border-ink/10 pt-5 space-y-2 text-sm text-ink-muted">
               <p className="flex items-center gap-2">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
-                Pacific Mall, Shop A5, Blantyre
-              </p>
-              <p className="flex items-center gap-2">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
-                Old Gulliver Market, Area 49, Lilongwe
+                Area 49, Gulliver, Next to Southern Bottlers Depot, Lilongwe
               </p>
               <Link href="/delivery" className="inline-flex items-center gap-1 text-gold hover:text-gold-dark transition-colors">
                 View delivery information →

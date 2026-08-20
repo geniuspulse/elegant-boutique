@@ -6,11 +6,11 @@ import Footer from '@/components/Footer';
 export const metadata: Metadata = {
   title: 'Elegant Boutique MW — ELEGANT • STYLISH • YOU',
   description:
-    'Elegant Boutique — Malawi’s premier destination for elegant formal wear, dresses, and two-piece sets. Visit us at Pacific Mall, Blantyre and Old Gulliver Market, Lilongwe.',
-  keywords: ['elegant boutique', 'blantyre fashion', 'malawi clothing', 'formal wear malawi', 'pacific mall blantyre'],
+    'Elegant Boutique MW — Malawi’s premier destination for elegant formal wear, dresses, and two-piece sets. Visit us in Area 49, Gulliver, Lilongwe.',
+  keywords: ['elegant boutique', 'lilongwe fashion', 'malawi clothing', 'formal wear malawi', 'gulliver lilongwe'],
   openGraph: {
     title: 'Elegant Boutique MW — ELEGANT • STYLISH • YOU',
-    description: 'Malawi’s premier destination for elegant formal wear and dresses. Pacific Mall, Blantyre.',
+    description: 'Malawi’s premier destination for elegant formal wear and dresses. Area 49, Gulliver, Lilongwe.',
     type: 'website',
     locale: 'en_MW',
   },

@@ -58,7 +58,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
           {[
             { label: 'Small to 2XL', icon: '📏' },
-            { label: 'Pacific Mall, Blantyre', icon: '📍' },
+            { label: 'Area 49, Gulliver', icon: '📍' },
             { label: 'Reserve on WhatsApp', icon: '💬' },
             { label: 'New Stock Weekly', icon: '✨' },
           ].map((item) => (

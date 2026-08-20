@@ -5,9 +5,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: { DEFAULT: '#1a1613', light: '#3d3631', muted: '#6b625c' },
-        cream: { DEFAULT: '#faf7f2', dark: '#f0ebe3', card: '#fffdf9' },
-        gold: { DEFAULT: '#b8956a', light: '#d4b896', dark: '#9a7a52' },
+        ink: { DEFAULT: '#0f0f10', light: '#2a2a2c', muted: '#5c5c60' },
+        cream: { DEFAULT: '#fffafd', dark: '#fde7f1', card: '#ffffff' },
+        gold: { DEFAULT: '#d6127d', light: '#f472b6', dark: '#9d0857' },
       },
       fontFamily: {
         serif: ['Cormorant Garamond', 'Playfair Display', 'serif'],

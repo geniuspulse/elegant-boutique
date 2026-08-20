@@ -32,9 +32,9 @@ export default function AboutPage() {
 
         <div className="space-y-6 text-ink-muted leading-relaxed text-lg">
           <p>
-            Elegant Boutique was born from a simple belief: every woman deserves to feel
-            elegant, stylish, and confidently herself. Founded in Blantyre, Malawi, we've
-            grown from a small shop to one of the country's most preferred destinations for
+            Elegant Boutique MW was born from a simple belief: every woman deserves to feel
+            elegant, stylish, and confidently herself. We started out at Pacific Mall in
+            Blantyre, growing into one of the country's most preferred destinations for
             formal wear and elegant fashion.
           </p>
           <p>
@@ -43,10 +43,9 @@ export default function AboutPage() {
             every body. From Small to 2XL, we believe elegance has no size limit.
           </p>
           <p>
-            Today, we proudly serve customers from two locations — Pacific Mall in Blantyre
-            and Old Gulliver Market in Lilongwe — with new stock arriving every week. Every
-            piece is hand-selected for quality, style, and that unmistakable touch of
-            elegance that sets our boutique apart.
+            We've since relocated to Area 49, Gulliver in Lilongwe, next to Southern Bottlers
+            Depot — with new stock arriving every week. Every piece is hand-selected for
+            quality, style, and that unmistakable touch of elegance that sets our boutique apart.
           </p>
         </div>
 
@@ -70,7 +69,7 @@ export default function AboutPage() {
         <div className="max-w-2xl mx-auto px-4">
           <h2 className="font-serif text-3xl text-cream mb-4">Visit Us Today</h2>
           <p className="text-cream/60 mb-6">
-            Come experience the elegance in person at our Blantyre or Lilongwe shops.
+            Come experience the elegance in person at our shop in Lilongwe.
           </p>
           <a
             href="/locations"

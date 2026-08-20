@@ -4,9 +4,9 @@
 @tailwind utilities;
 
 :root {
-  --ink: #1a1613;
-  --cream: #faf7f2;
-  --gold: #b8956a;
+  --ink: #0f0f10;
+  --cream: #fffafd;
+  --gold: #d6127d;
 }
 
 * {
@@ -37,7 +37,7 @@ html {
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #d4b896;
+  background: #f472b6;
   border-radius: 3px;
 }
 

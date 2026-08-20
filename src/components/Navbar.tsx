@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState, useEffect } from 'react';
 
 export default function Navbar() {
@@ -30,16 +31,25 @@ export default function Navbar() {
       }`}
     >
       {/* Announcement bar */}
-      <div className="bg-gold text-ink text-center py-1.5 text-[11px] font-medium tracking-widest2 uppercase">
-        Pacific Mall, Blantyre · Old Gulliver, Lilongwe
+      <div className="bg-gold text-cream text-center py-1.5 text-[11px] font-medium tracking-widest2 uppercase">
+        Area 49, Gulliver · Next to Southern Bottlers Depot, Lilongwe
       </div>
 
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center">
-            <span className="font-serif text-2xl text-cream tracking-wide">
+          <Link href="/" className="flex items-center gap-2">
+            <div className="relative w-9 h-9 flex-shrink-0">
+              <Image
+                src="https://media.base44.com/images/public/6a85ec11d66075f7f89911f8/dafa7e6b5_generated_image.png"
+                alt="Elegant Boutique MW logo"
+                fill
+                className="object-contain invert"
+              />
+            </div>
+            <span className="font-serif text-2xl text-cream tracking-wide leading-none">
               Elegant <span className="text-gold italic">Boutique</span>
+              <span className="text-cream/50 text-sm not-italic align-top"> MW</span>
             </span>
           </Link>
 
@@ -58,7 +68,7 @@ export default function Navbar() {
               href="https://wa.me/265997544522?text=Hi%20Elegant%20Boutique%2C%20I'd%20like%20to%20enquire%20about%20a%20product"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-gold text-ink px-5 py-2 text-sm font-medium tracking-wide uppercase hover:bg-gold-light transition-colors"
+              className="bg-gold text-cream px-5 py-2 text-sm font-medium tracking-wide uppercase hover:bg-gold-dark transition-colors"
             >
               WhatsApp
             </a>
@@ -98,7 +108,7 @@ export default function Navbar() {
                 href="https://wa.me/265997544522?text=Hi%20Elegant%20Boutique%2C%20I'd%20like%20to%20enquire%20about%20a%20product"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gold text-ink px-5 py-3 mt-2 text-sm font-medium tracking-wide uppercase text-center hover:bg-gold-light transition-colors"
+                className="bg-gold text-cream px-5 py-3 mt-2 text-sm font-medium tracking-wide uppercase text-center hover:bg-gold-dark transition-colors"
               >
                 WhatsApp Us
               </a>
