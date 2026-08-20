@@ -18,7 +18,7 @@ export default function HomePage() {
             fill
             priority
             sizes="100vw"
-            className="object-cover"
+            className="object-cover blur-sm scale-105"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-ink/50 via-ink/30 to-ink/60" />
         </div>
@@ -101,7 +101,7 @@ export default function HomePage() {
             alt="Elegant style"
             fill
             sizes="100vw"
-            className="object-cover"
+            className="object-cover blur-sm scale-105"
           />
           <div className="absolute inset-0 bg-ink/50" />
         </div>
