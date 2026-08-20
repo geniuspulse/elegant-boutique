@@ -30,9 +30,9 @@ export const products: Product[] = [
     description:
       'A timeless white dress crafted for the woman who commands attention without saying a word. Flowing silhouette with a tailored fit that flatters every curve. Perfect for formal events, weddings, and special occasions.',
     image:
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800&q=80',
+      'https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800&q=80',
     images: [
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=1200&q=80',
+      'https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=1200&q=80',
       'https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=1200&q=80',
     ],
     isNew: true,
